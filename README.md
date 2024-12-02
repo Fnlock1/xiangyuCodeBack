@@ -20,4 +20,4 @@ step7:<code>php artisan serve</code>
 
 你的后端跑起来了 Good 开始改变世界吧
 <hr>
-<h1><em>Change World</em></h1>
+
